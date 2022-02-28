@@ -1,4 +1,4 @@
-# DPDNet (Performance Gain)
+# DPDNet (Improved Version)
 
 ![License CC BY-NC](https://img.shields.io/badge/License-GNU_AGPv3-yellowgreen.svg?style=flat)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-16.0.4%20&%2018.0.4-blue.svg?style=plastic)
