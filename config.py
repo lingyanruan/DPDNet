@@ -51,8 +51,8 @@ else:
     path_save_model='./ModelCheckpoints/defocus_deblurring_dp_'+res_model_name+'.hdf5'
     
 
-path_read_test = '/raid/dpd_dataset/df_motion_blur/test/resize_df_gt' #'/raid/complex_blur_dataset_full/df_motion_blur/test/resize_df_gt'
-path_read_test_gt = '/raid/dpd_dataset/aif_motion_blur/test/resize_aif_gt' #None #'/raid/complex_blur_dataset_full/aif_motion_blur/test/resize_aif_gt'
+path_read_test = './DPD/test_c/source' #'/raid/complex_blur_dataset_full/df_motion_blur/test/resize_df_gt'
+path_read_test_gt = './DPD/test_c/target' #None #'/raid/complex_blur_dataset_full/aif_motion_blur/test/resize_aif_gt'
 
 # path to write results
 path_write='./results/res_'+res_model_name+'_dd_dp'+dataset_name+'/'
