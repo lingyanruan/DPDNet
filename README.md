@@ -6,7 +6,7 @@
 ![CUDA](https://img.shields.io/badge/CUDA-10.2%20-yellowgreen.svg?style=plastic)
 ![PyTorch](https://img.shields.io/badge/PyTorch-1.8.0-yellowgreen.svg?style=plastic)
 
-This repository contains improved version of DPDNet when adopting the training strategy in the following paper:
+This repository contains the retrained version of DPDNet when adopting the training strategy in the following paper:
 
 > **[Learning to Deblur using Light Field Generated and Real Defocused Images](placeholder)**<br>
 > Lingyan Ruan<sup>\*</sup>, Bin Chen<sup>\*</sup>, Jizhou Li, Miuling Lam （\* equal contribution）
