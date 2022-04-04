@@ -1,4 +1,4 @@
-# DPDNet (Improved Version)
+# DPDNet (Retrained Version)
 
 ![License CC BY-NC](https://img.shields.io/badge/License-GNU_AGPv3-yellowgreen.svg?style=flat)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-16.0.4%20&%2018.0.4-blue.svg?style=plastic)
@@ -8,8 +8,9 @@
 
 This repository contains the retrained version of DPDNet when adopting the training strategy in the following paper:
 
-> **[Learning to Deblur using Light Field Generated and Real Defocused Images](placeholder)**<br>
-> Lingyan Ruan<sup>\*</sup>, Bin Chen<sup>\*</sup>, Jizhou Li, Miuling Lam （\* equal contribution）
+> **[Learning to Deblur using Light Field Generated and Real Defocused Images](https://arxiv.org/pdf/2204.00367.pdf)**<br>
+> Lingyan Ruan<sup>\*</sup>, Bin Chen<sup>\*</sup>, Jizhou Li, Miuling Lam （\* equal contribution）<br>
+> IEEE Computer Vision and Pattern Recognition (**CVPR Oral**) 2022
 
 <p align="left">
   <a>
@@ -40,7 +41,7 @@ $ cd DPDNet
 
 #### 2. Pre-trained models
 
-Download and unzip [pretrained weights](placeholder) under `./ModelCheckpoints/`:
+Download and unzip [pretrained weights](https://drive.google.com/drive/folders/17xws2utY_a6t-iGQRHKd0naP91ISiFsw?usp=sharing) under `./ModelCheckpoints/`:
 
 #### 3. Datasets
 
@@ -59,3 +60,4 @@ Should you have any questions, please open an issue or contact me [lyruanruan@gm
 ## License
 
 This software is being made available under the terms in the [LICENSE](LICENSE) file.
+
